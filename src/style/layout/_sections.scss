@@ -1,0 +1,11 @@
+// Section
+section {
+  padding: 3rem 0rem;
+
+  @include respond(phone) {
+    border: none;
+    padding: 1rem 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

@@ -1,0 +1,33 @@
+#contact {
+  height: 100%;
+  padding-bottom: 3rem;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  svg {
+    display: flex;
+    justify-content: center;
+    color: $primary-color;
+    font-size: 3rem;
+    width: 3rem;
+    height: 3rem;
+    transition: all 0.2s ease-in;
+
+    &:hover {
+      transform: translateY(-2px);
+    }
+  }
+  
+  a {
+    color: $dark-grey;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    margin: 1rem 0 3rem;
+  }
+}

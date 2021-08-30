@@ -1,0 +1,41 @@
+#resume {
+  height: 100%;
+}
+
+.resume-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.react-pdf {
+  &__Document {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__Page {
+    max-width: calc(100% - 4em);
+    margin: 0 1em;
+
+    canvas {
+      max-width: 100%;
+      height: auto !important;
+      border-radius: 15px;
+      box-shadow: 0 0 15px -5px rgba(0, 0, 0, .3);
+    }
+  }
+}
+
+.resume-button {
+  background-color: $primary-color;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 50px;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+  font-family: 'Poppins';
+  letter-spacing: 2.5px;
+  font-size: 1.3rem;
+}

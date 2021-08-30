@@ -1,0 +1,14 @@
+#headshots {
+  background: white;
+  max-width: 440px;
+  margin: 0 auto;
+}
+
+.gatsby-image-wrapper img {
+  object-fit: contain !important;
+}
+
+.carousel {
+  display: inline-block;
+}
+
