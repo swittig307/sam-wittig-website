@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/sam-wittig-website/static/css/main.6092aae7.chunk.css",
+    "main.js": "/sam-wittig-website/static/js/main.ec6c9691.chunk.js",
+    "main.js.map": "/sam-wittig-website/static/js/main.ec6c9691.chunk.js.map",
+    "runtime-main.js": "/sam-wittig-website/static/js/runtime-main.6fc9977d.js",
+    "runtime-main.js.map": "/sam-wittig-website/static/js/runtime-main.6fc9977d.js.map",
+    "static/css/2.6b560088.chunk.css": "/sam-wittig-website/static/css/2.6b560088.chunk.css",
+    "static/js/2.d8bd8582.chunk.js": "/sam-wittig-website/static/js/2.d8bd8582.chunk.js",
+    "static/js/2.d8bd8582.chunk.js.map": "/sam-wittig-website/static/js/2.d8bd8582.chunk.js.map",
+    "static/js/3.a9ff1629.chunk.js": "/sam-wittig-website/static/js/3.a9ff1629.chunk.js",
+    "static/js/3.a9ff1629.chunk.js.map": "/sam-wittig-website/static/js/3.a9ff1629.chunk.js.map",
+    "index.html": "/sam-wittig-website/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/sam-wittig-website/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.6092aae7.chunk.css.map": "/sam-wittig-website/static/css/main.6092aae7.chunk.css.map",
+    "static/js/2.d8bd8582.chunk.js.LICENSE.txt": "/sam-wittig-website/static/js/2.d8bd8582.chunk.js.LICENSE.txt",
+    "static/media/headshot1.544fad88.JPG": "/sam-wittig-website/static/media/headshot1.544fad88.JPG",
+    "static/media/headshot10.8981b305.JPG": "/sam-wittig-website/static/media/headshot10.8981b305.JPG",
+    "static/media/headshot11.acc15375.JPG": "/sam-wittig-website/static/media/headshot11.acc15375.JPG",
+    "static/media/headshot2.faf23a62.JPG": "/sam-wittig-website/static/media/headshot2.faf23a62.JPG",
+    "static/media/headshot3.fdf29277.JPG": "/sam-wittig-website/static/media/headshot3.fdf29277.JPG",
+    "static/media/headshot4.6d23f1bd.JPG": "/sam-wittig-website/static/media/headshot4.6d23f1bd.JPG",
+    "static/media/headshot5.4b11e96d.JPG": "/sam-wittig-website/static/media/headshot5.4b11e96d.JPG",
+    "static/media/headshot6.af793d46.JPG": "/sam-wittig-website/static/media/headshot6.af793d46.JPG",
+    "static/media/headshot7.186e2616.JPG": "/sam-wittig-website/static/media/headshot7.186e2616.JPG",
+    "static/media/headshot8.d0d6a56b.JPG": "/sam-wittig-website/static/media/headshot8.d0d6a56b.JPG",
+    "static/media/headshot9.25f5072d.JPG": "/sam-wittig-website/static/media/headshot9.25f5072d.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fc9977d.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.d8bd8582.chunk.js",
+    "static/css/main.6092aae7.chunk.css",
+    "static/js/main.ec6c9691.chunk.js"
+  ]
+}
